@@ -27,7 +27,7 @@
     "typescript": "^5.7.2",
     "vite": "^5.4.11"
   },
-  "packageManager": "npm@10.8.2",
+"packageManager": "pnpm@9.0.0",
   "engines": {
     "node": "20.x",
     "npm": "10.8.2"
